@@ -2,7 +2,7 @@
 JavaScript Class to parse megnetic card reader credit card data into a html form 
 
 ## Card Reader
-This was tested with a magtek card reader, part number: 21040110
+This was tested with a [magtek card reader](https://www.amazon.com/s?k=magtek+card+reader+part+number+21040110&i=industrial&crid=2W4WBBQZEQWFS&sprefix=magtek+card+reader+part+number+21040110%2Cindustrial%2C134&ref=nb_sb_noss), part number: 21040110
 
 ## Set up
 - clone or download the repo
